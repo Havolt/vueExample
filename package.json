@@ -1,0 +1,22 @@
+{
+  "name": "vueexample",
+  "version": "1.0.0",
+  "description": "Vue Example",
+  "main": "blah.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Havolt/vueExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Havolt/vueExample/issues"
+  },
+  "homepage": "https://github.com/Havolt/vueExample#readme",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
